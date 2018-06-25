@@ -1,9 +1,12 @@
-docs/*
-!docs/README.md
-test/message.txt
-test/testbootstrap.php
-build/
-vendor/
-*.pem
-composer.lock
-.php_cs.cache
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
